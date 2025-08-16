@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NexusShop - Modern E-Commerce</title>
+    <title>amazon - Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -794,18 +794,18 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> Mobilephone</a>
                             <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
+                            <a href="#"><i class="fas fa-shoe-prints"></i> Foot</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
+                    <li><a href="#"><i class="fas fa-fire"></i> Trend</a></li>
                     <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
                     <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><i class="fas fa-envelope"></i> Keepintouch</a></li>
                 </ul>
             </nav>
             
