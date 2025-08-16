@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>amazon - Modern E-Commerce</title>
+    <title>Filpkart - Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -826,8 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2025</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
+            <h1>Rainy Collection 2025</h1>
+            <p>Discover the latest trends in this article fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
@@ -850,7 +850,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops</h3>
+                <h3>desktops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
@@ -1105,11 +1105,11 @@
                 <div class="footer-col">
                     <h3>About</h3>
                     <ul>
-                        <li><a href="#">Our Story</a></li>
-                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Our achivements</a></li>
+                        <li><a href="#">opprounites</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                         <li><a href="#">Terms of Service</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Vlog</a></li>
                     </ul>
                     <div class="payment-methods">
                         <img src="https://cdn-icons-png.flaticon.com/512/196/196578.png" alt="Visa">
