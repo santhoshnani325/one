@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>amazon - Modern E-Commerce</title>
+    <title>nexus - Modern E-Commerce</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2025</h1>
+            <h1>winter Collection 2025</h1>
             <p>Discover the latest trends in this article fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -850,7 +850,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>desktops</h3>
+                <h3>laptop</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
@@ -879,7 +879,7 @@
     <!-- Trending Products -->
     <section class="container">
         <div class="section-title">
-            <h2>Trending Products</h2>
+            <h2>Trending mobile Products</h2>
             <p>Discover what's popular right now</p>
         </div>
         
@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 14 Pro Max</h3>
-                    <div class="price">$1299 <span class="old-price">$1,199</span></div>
+                    <div class="price">$1 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
-                    <div class="price">$1,999</div>
+                    <div class="price">$2500</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
